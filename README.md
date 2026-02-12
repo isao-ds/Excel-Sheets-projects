@@ -1,3 +1,4 @@
+![Excel projects](https://github.com/isao-ds/Excel-Sheets-projects/raw/main/excel-repository-logo.png)
 ### 🧑‍💻 List of projects:
 ---
 
