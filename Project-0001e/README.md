@@ -1,5 +1,5 @@
 ![Project-0001e](https://github.com/isachenko-andrii/Excel-Sheets-projects/raw/main/Project-0001e/Project-logo.png)
-## Project title: Brazilian E-Commerce Sales & Inventory Optimization<br>(ABC/XYZ Analysis)  
+## Project title: Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)  
   
 ## Project description  
   
