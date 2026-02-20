@@ -1,4 +1,5 @@
 # Project title: Brazilian E-Commerce Sales & Inventory Optimization (ABC/XYZ Analysis)  
+<div align="center">Этот текст будет по центру</div>  
   
 ## Project description  
   
@@ -7,7 +8,7 @@ This project focuses on a comprehensive analysis of the Brazilian Olist e-commer
 ## Data used  
   
 The analysis uses open-source data from the Olist Store, the largest department store in Brazilian marketplaces.  
-    • Source: Kaggle (Brazilian E-Commerce Public Dataset by Olist)  
+    • Source: [Kaggle (Brazilian E-Commerce Public Dataset by Olist)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
     • Sample size: 100,000+ orders from 2016 to 2018.  
     • Data composition: Relational structure including tables for orders, product items, product category translation, and timestamps.  
     
@@ -36,7 +37,6 @@ The analysis uses open-source data from the Olist Store, the largest department 
 
 The project includes:  
     • Pareto Chart: Visualizing the 80/20 rule for product revenue.  
-
     
     • ABC/XYZ Matrix (Heatmap): A 3x3 grid showing the distribution of categories.  
       
@@ -77,8 +77,8 @@ To explore this analysis:
   
 ## Acknowledgments  
   
-Thanks to Olist for providing this rich dataset for the data community.  
-Special thanks to the Kaggle platform for hosting the data.  
+Thanks to [Olist](https://www.olist.com/) for providing this rich dataset for the data community.  
+Special thanks to the [Kaggle](https://www.kaggle.com/) platform for hosting the data.  
 Project Status: Completed. Planned future update: Adding RFM (Recency, Frequency, Monetary) analysis for customer segmentation.  
   
 **License:** MIT License.
