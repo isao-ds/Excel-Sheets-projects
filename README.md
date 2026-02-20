@@ -1,4 +1,4 @@
-![Excel projects](https://github.com/isachenko-andrii/Excel-Sheets-projects/raw/main/excel-repository.png)
+![Excel projects](https://github.com/isachenko-andrii/Excel-Sheets-projects/raw/main/Excel-Sheets-projects.png.png)
 🧑‍💻 List of projects:
 ---
 
