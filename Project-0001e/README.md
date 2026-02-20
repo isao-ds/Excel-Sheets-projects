@@ -46,7 +46,7 @@ The project includes:
     
 ## Project structure  
   
-Project-0001e/ — project directory  
+**Project-0001e**/ — project directory  
 | - data/ — project data  
 || - raw/ — original Olist CSV files (orders, items, products)  
 || - processed/ — final Excel/Sheets file with formulas and master table  
