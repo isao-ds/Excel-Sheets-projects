@@ -74,3 +74,11 @@ To explore this analysis:
 **Name:** Andrii Isachenko  
 **LinkedIn:** [Andrii Isachenko](https://www.linkedin.com/in/isachenko-andrii/)  
 **E-mail:** isao.datastudio@gmail.com  
+  
+## Acknowledgments  
+  
+Thanks to Olist for providing this rich dataset for the data community.  
+Special thanks to the Kaggle platform for hosting the data.  
+Project Status: Completed. Planned future update: Adding RFM (Recency, Frequency, Monetary) analysis for customer segmentation.  
+  
+**License:** MIT License.
