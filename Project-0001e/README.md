@@ -46,14 +46,14 @@ The project includes:
     
 ## Project structure  
   
-Olist-Analysis-Project/ — project directory  
-    • data/ — project data  
-        ◦ raw/ — original Olist CSV files (orders, items, products)  
-        ◦ processed/ — final Excel/Sheets file with formulas and master table  
-    • docs/ — documentation and ABC/XYZ methodology explanation  
-    • results/ — screenshots of the Dashboard and final insights  
-    • Project-Olist-Logo.png — project cover  
-    • README.md — project description  
+Project-0001e/ — project directory  
+| - data/ — project data  
+|| - raw/ — original Olist CSV files (orders, items, products)  
+|| - processed/ — final Excel/Sheets file with formulas and master table  
+| - docs/ — documentation and ABC/XYZ methodology explanation  
+| - results/ — screenshots of the Dashboard and final insights  
+| - Project-Logo.png — project cover  
+| - README.md — project description  
     
 ## How to Use  
 
